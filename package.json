@@ -1,0 +1,14 @@
+{
+  "name": "@danzen/simple",
+  "version": "1.0.0",
+  "description": "test of NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TEST"
+  ],
+  "author": "Dan Zen",
+  "license": "ISC"
+}
